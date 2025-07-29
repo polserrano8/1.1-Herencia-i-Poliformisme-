@@ -1,6 +1,8 @@
 package s1_1_HerenciaiPoliformisme_Niv1_Ex1;
 
-import java.lang.ref.PhantomReference;
+import s1_1_HerenciaiPoliformisme_Niv1_Ex1.model.PercussionInstrument;
+import s1_1_HerenciaiPoliformisme_Niv1_Ex1.model.StringInstrument;
+import s1_1_HerenciaiPoliformisme_Niv1_Ex1.model.WindInstrument;
 
 public class Main {
 

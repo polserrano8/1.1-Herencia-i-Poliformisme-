@@ -1,5 +1,7 @@
 package s1_1_HerenciaiPoliformisme_Niv1_Ex2;
 
+import s1_1_HerenciaiPoliformisme_Niv1_Ex2.model.Car;
+
 public class Main {
 
 	public static void main(String[] args) {
