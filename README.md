@@ -1,4 +1,22 @@
 # Task S1.01. Inheritance and Polymorphism
+## Introduction
+Task based on performing exercises similar to the fundamentals course, where it was learned object-oriented programming, inheritance, and polymorphism.
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. **Clone the repository**:
+ git clone https://github.com/polserrano8/1.1-Herencia-i-Poliformisme
+
+2. **Open the project in IntelliJ IDEA**:
+- Launch IntelliJ IDEA.
+- Select "Open" and navigate to the directory where you cloned the repository.
+- Open the project.
+
+3. **Build and run the project**:
+- Ensure you are using JDK 19.
+- Use the Run configurations in IntelliJ IDEA to execute the exercises.
 
 ## Level 1
 
